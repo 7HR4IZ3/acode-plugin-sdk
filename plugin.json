@@ -1,0 +1,16 @@
+{
+  "id": "acode.plugin.sdk",
+  "name": "Acode Plugin SDK",
+  "main": "src/main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode" : 290,
+  "price": 0,
+  "author": {
+    "name": "",
+    "email": "",
+    "github": ""
+  }
+}
